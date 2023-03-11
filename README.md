@@ -1,7 +1,8 @@
 
 # OMR Detection OpenCV
 
-multiple choice scanner and test grader using OMR, Python, and OpenCV
+Multiple choice scanner and test grader using OMR, Python, and OpenCV
+An Image Processing Oriented Optical Mark Recognition and Evaluation System.
 
 
 # OMR Detection OpenCV
